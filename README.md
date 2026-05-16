@@ -1,5 +1,7 @@
 # homeos-plugin-npm
 
+![License](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue)
+
 A [homeos](https://github.com/hainet50b/homeos) plugin for [npm](https://github.com/npm/cli), a JavaScript package manager.
 
 ## Usage
